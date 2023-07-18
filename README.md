@@ -38,7 +38,7 @@ Welcome to F MENU, a blazingly powerful multitool designed to give you the upper
 
 ## 👥 Contributors
 
-- F MENU Creator: [@yGoobGub](https://github.com/goobgub)
+- F MENU Creator: [@GoobGub](https://github.com/goobgub)
 
 ---
 
