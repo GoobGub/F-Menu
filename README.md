@@ -24,7 +24,7 @@ Welcome to F MENU, a blazingly powerful multitool designed to give you the upper
 - 📛 **massreport**: Crush your enemies with mass reports and watch them fall.
 - 🔒 **TokenDecrypt**: Unlock the secrets hidden within tokens.
 - 📸 **ImageLogger**: Capture the essence of those who dare to challenge you.
-- ❌ **Quit**: Escape the grasp of F MENU (if you dare).
+
 
 ## 💡 Usage
 
